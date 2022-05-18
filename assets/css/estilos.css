@@ -1,0 +1,24 @@
+        h1{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: #74d8e7;
+        }
+        h2{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: #74d8e7;
+        }
+        .elements{
+            display: flex;
+    flex-direction: column;
+    align-items: center; 
+    color: #000000; 
+        }
+        .button{
+            display: flex;
+      flex-direction: column;
+      align-items: center; 
+      color: #000000; 
+        }
